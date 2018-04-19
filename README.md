@@ -1,6 +1,6 @@
 # transf.sh-command-linux-
 
-transf.sh : transf.sh [option]... [IP] or [PORT]...
+transf.sh : transf.sh [option]... [IP] or [PORT]...\n
        Description
                 -s : server socket
              Using : transf.sh [option] [PORT]
